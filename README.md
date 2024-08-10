@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My current project: [Movo Uz](https://movo.uz)<br><br>👨‍💻 All of my projects are available at: [Javohir Logs](https://t.me/uzbek_learners)<br><br><!-- 📝 I regularly write articles on: https://t.me/javohirTwits<br><br> -->📫 How to reach me: javohir.py@gmail.com<br><br>
+🔭 My current project: [Movo Uz](https://movo.uz)<br><br>👨‍💻 All of my projects are available at: [Javohir Logs](https://t.me/Javohir_logs)<br><br><!-- 📝 I regularly write articles on: https://t.me/javohirTwits<br><br> -->📫 How to reach me: javohir.py@gmail.com<br><br>
 <!--📄 Know about my experiences: My resume -->
 
 
