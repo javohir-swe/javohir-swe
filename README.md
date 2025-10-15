@@ -1,6 +1,6 @@
 # Hi there, I'm Javohir Khamidullaev 👋
 
-## Odoo Developer & Team Lead | Python Backend Engineer
+## Software Engineer
 
 Dedicated and experienced software engineer with over 1.5 years of professional experience in backend development, specializing in the Odoo framework and Python-based solutions. Proven leadership in managing full development cycles, deployment, server administration, and building AI-integrated enterprise solutions.
 
