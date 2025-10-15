@@ -1,23 +1,71 @@
-# 💫 About Me:
-🔭 My current project: [Movo Uz](https://movo.uz)<br><br>👨‍💻 All of my projects are available at: [Javohir Logs](https://t.me/s/Javohir_logs)<br><br><!-- 📝 I regularly write articles on: https://t.me/javohirTwits<br><br> -->📫 How to reach me: javohir.py@gmail.com<br><br>
-<!--📄 Know about my experiences: My resume -->
+# Hi there, I'm Javohir Khamidullaev 👋
 
+## Odoo Developer & Team Lead | Python Backend Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khamidullaev-javohir/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/javohir_coder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@JavohirWeb) 
+Dedicated and experienced software engineer with over 1.5 years of professional experience in backend development, specializing in the Odoo framework and Python-based solutions. Proven leadership in managing full development cycles, deployment, server administration, and building AI-integrated enterprise solutions.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=javohir-swe&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=javohir-swe&theme=dark&hide_border=true)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javohir-swe&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=javohir-swe&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
 ---
-![](https://visitcount.itsvg.in/api?id=javohir-swe&icon=0&color=0)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Stack
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+
+**Specializations:**
+- Odoo ERP Development (v16-17-18-19)
+- RESTful API Design & Integration
+- AI Integration (Face Recognition, OCR)
+- Payment Gateway Integration
+- Social Media API Integration
+- CI/CD Pipeline Management
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="left">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javohir-swe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javohir-swe&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javohir-swe&theme=radical" alt="GitHub Streak"/>
+</div> -->
+
+---
+
+## 🎥 Content Creation
+
+I share my knowledge and experience through my YouTube channel **[@JavohirWeb](https://youtube.com/@JavohirWeb)**, where I create tutorials and insights about Python and Odoo development.
+
+---
+
+## 📝 Blog & Writing
+
+I regularly share technical articles, development tips, and insights on my Telegram channel: **[@javohir_logs](https://t.me/javohir_logs)**
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javohir-swe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javohir.py@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javohir_logs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JavohirWeb)
+
+---
+
+<div align="center">
+  <i>Open to collaboration and interesting projects!</i>
+</div>
