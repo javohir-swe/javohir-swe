@@ -30,15 +30,6 @@ Dedicated and experienced software engineer with over 1.5 years of professional 
 - Social Media API Integration
 - CI/CD Pipeline Management
 
----
-
-## 📊 GitHub Statistics
-
-<div align="left">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javohir-swe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javohir-swe&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=javohir-swe&theme=radical" alt="GitHub Streak"/>
 </div> -->
